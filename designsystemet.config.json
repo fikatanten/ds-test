@@ -4,9 +4,9 @@
   "themes": {
     "ds-test": {
       "colors": {
-        "brand1": "#d98080",
+        "brand1": "#e58181",
         "brand2": "#5B3FA0",
-        "neutral": "#24272B",
+        "neutral": "#97c2ff",
         "color-3": "#bb0375"
       },
       "borderRadius": 4
