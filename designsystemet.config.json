@@ -2,12 +2,12 @@
   "$schema": "https://designsystemet.no/schemas/config/latest.json",
   "outDir": "./design-tokens",
   "themes": {
-    "ds-test": {
+    "ds-test2": {
       "colors": {
-        "brand1": "#e58181",
-        "brand2": "#ffbbf0",
+        "periwinkle": "#a7b5fe",
+        "pink": "#ff76e1",
         "neutral": "#97c2ff",
-        "color-3": "#bb0375"
+        "honey": "#feb737"
       },
       "borderRadius": 4
     }
