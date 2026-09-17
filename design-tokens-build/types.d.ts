@@ -4,10 +4,10 @@ import type {} from '@digdir/designsystemet-types';
 // Augment types based on theme
 declare module '@digdir/designsystemet-types' {
   export interface ColorDefinitions {
-    brand1: never;
-    brand2: never;
+    periwinkle: never;
+    pink: never;
     neutral: never;
-    'color-3': never;
+    honey: never;
   }
   export interface SeverityColorDefinitions {
     info: never;
